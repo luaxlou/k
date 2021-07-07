@@ -42,10 +42,6 @@ func openK9s(cmd *cobra.Command, args []string) {
 
 }
 
-func prepare(cmd *cobra.Command, args []string) {
-	runCmd("brew", "add", "-f", args[0])
-
-}
 
 
 func runCmd(cmdName string, params ...string) error {
