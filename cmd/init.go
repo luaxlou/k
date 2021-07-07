@@ -20,14 +20,6 @@ func init() {
 		Short:   "open k9s by clusterConfigName",
 	})
 
-	rootCmd.AddCommand(&cobra.Command{
-		Use:     "prepare",
-		Aliases: []string{"a"},
-		Args:    cobra.MinimumNArgs(1),
-		Run:     prepare,
-		Short:   "prepare install software",
-	})
-
 }
 
 func openK9s(cmd *cobra.Command, args []string) {
