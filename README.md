@@ -33,3 +33,5 @@ Example clusterName is "test":
 
 Then will open k9s gui for "test" cluster.
    
+
+Have fun.
