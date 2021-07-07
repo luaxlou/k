@@ -9,8 +9,7 @@ import (
 
 var rootCmd = &cobra.Command{
 	Use:   "k",
-	Short: "k 是一个k8s多集群管理工具",
-	Long: `k 借助 kubecm k9s 来管理k8s多集群`,
+	Short: "K is a commandline tool to manage multi k8s.",
 
 }
 
