@@ -4,7 +4,7 @@ K is a commandline tool to manage multi k8s.
 
 How to Use:
 
-1. First you must have installed.
+1. First you must have installed:
     * kubectl
     * [kubecm](https://github.com/sunny0826/kubecm)
     * [k9s](https://github.com/derailed/k9s)
