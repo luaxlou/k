@@ -6,7 +6,7 @@ How to Use:
 
 1. First you must have installed:
     * kubectl
-    * [kubecm](https://github.com/sunny0826/kubecm)
+    * [kubecm](https://kubecm.cloud/)
     * [k9s](https://github.com/derailed/k9s)
 
 2. Checkout this repository
